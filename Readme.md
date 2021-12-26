@@ -2,6 +2,8 @@
 
 ### Projects Todo
 
+*Beginner Level*
+
 * [x] [GuessingGame](./Guessing_Game.py)
 * [x] [Time Countdown](./CountDown_Timer.py)
 * [x] [Password Manager](./Password_Manager.py)
@@ -12,3 +14,8 @@
 * [x] [Number Guessing Game](./Number_Guessing_Game.py)
 * [x] [Alarm Clock](./Alarm_Clock.py)
 * [x] [Python Password Script](./Password_Script.py)
+
+*Finished with Beginner Level*
+---
+
+*Intermeditate Level*
