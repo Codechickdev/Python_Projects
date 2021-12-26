@@ -11,3 +11,4 @@
 * [x] [Google_search](./Google_Search.py)
 * [x] [Number Guessing Game](./Number_Guessing_Game.py)
 * [x] [Alarm Clock](./Alarm_Clock.py)
+* [x] [Python Password Script](./Password_Script.py)
