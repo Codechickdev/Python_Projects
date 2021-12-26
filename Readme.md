@@ -19,3 +19,4 @@
 ---
 
 *Intermeditate Level*
+* [x] [Digital Clock](./Digital_Clock.py)
