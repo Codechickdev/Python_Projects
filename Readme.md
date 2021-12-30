@@ -20,3 +20,5 @@
 
 *Intermeditate Level*
 * [x] [Digital Clock](./Digital_Clock.py)
+* [x] [MinesweeperGame](./MinesweeperGame)
+* [x] [Web Scrapper](./WebScrapper.py)
