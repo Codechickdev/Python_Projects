@@ -22,3 +22,4 @@
 * [x] [Digital Clock](./Digital_Clock.py)
 * [x] [MinesweeperGame](./MinesweeperGame)
 * [x] [Web Scrapper](./WebScrapper.py)
+* [x] [Typing Tester](./TypingTester.py)
