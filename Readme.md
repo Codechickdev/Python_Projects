@@ -23,3 +23,5 @@
 * [x] [MinesweeperGame](./MinesweeperGame)
 * [x] [Web Scrapper](./WebScrapper.py)
 * [x] [Typing Tester](./TypingTester.py)
+* [x] [Message Encryption](./MessageEncrypt.py)
+* [x] [AudioBook creater](./Audiobook)
